@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to 我的博客页面
+
+假装这里有一千字论文..........................
+
+以下为样式预览
+
+---
 
 You can use the [editor on GitHub](https://github.com/Fen-Li/Fen-Li.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

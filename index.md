@@ -6,11 +6,10 @@
 
 ---
 
-You can use the [editor on GitHub](https://github.com/Fen-Li/Fen-Li.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+你可以去 [编辑主页](https://github.com/Fen-Li/Fen-Li.github.io/edit/main/index.md) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Markdown语法
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
